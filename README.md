@@ -1,1 +1,2 @@
 # movie-recommendation
+Collaborative project
